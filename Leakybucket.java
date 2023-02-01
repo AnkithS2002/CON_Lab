@@ -1,5 +1,4 @@
-// Java Implementation of Leaky bucket
- 
+
 import java.io.*;
 import java.util.*;
  
